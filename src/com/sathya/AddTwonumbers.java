@@ -7,11 +7,13 @@ public class AddTwonumbers {
 		
 		int x=10;
 		int y=20;
-		int z=x+y;
+		int c=30;
+		int z=x+y+c;
 		System.out.println("add two numbers"+z);
 
 		String name1 = "raghu";
 		String name2 = "Sai";
-		System.out.println(name1+name2);		}
+		String name3= "Adithya";
+		System.out.println(name1+name2+name3);		}
 
 }
